@@ -1,0 +1,16 @@
+Ma Buu Kien |   Ten Hang |        Ten Nguoi Gui |         SDT  |       Ten Nguoi Nhan |         SDT  | Dia Diem Giao Hang | Thanh Tien |  Khoi Luong |   Ngay Gui |          Shipper | Tinh Trang
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+     999999 |   may tinh |          Ho Khang Hy |    012345678 |         Nguyen Chien |    111122223 |           Hai Chau | 123000 VND |       13 kg | 02/03/2023 |  Nguyen Van Chau |  Da Giao!
+     123456 |    ban ghe | Nguyen Le Minh Chien |   0768497979 |                Chung |    999111333 |             Cam Le |  10000 VND |       25 kg | 11/03/2024 |    Nguyen Van Le | Dang Giao!
+     987654 |    tu lanh |         Doris Nguyen |   0905444555 |         Michael Pham |   0905109109 |           Hai Chau | 500000 VND |       10 kg | 23/04/2021 |  Nguyen Van Chau |  Da Giao!
+      12123 |        hop |            Duong Huy |    037663321 |                Khanh |    034235234 |         Lien Chieu | 400000 VND |        3 kg | 20/04/2024 | Nguyen Van Chieu |  Da Giao!
+       1256 |        aka |            Duong Huy |    037663321 |               Khanh1 |  0342qweqe34 |         Lien Chieu | 400000 VND |        3 kg | 20/04/2024 | Nguyen Van Chieu |  Da Giao!
+       1265 |        sda |           Duong Huy1 |   03766asd21 |               Khanh2 |     03423qw4 |         Lien Chieu | 500000 VND |        4 kg | 20/04/2024 | Nguyen Van Chieu |  Da Giao!
+      16786 |         ww |           Duong Huy2 |   0376632131 |               Khanh3 |     03412334 |         Lien Chieu | 700000 VND |        2 kg | 20/04/2024 | Nguyen Van Chieu |  Da Giao!
+
+THONG KE
+Da giao  : 6
+
+Dang giao: 1
+
+Tong so tien da nhan : 2623000 VND
